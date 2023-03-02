@@ -1,10 +1,10 @@
-use clap::{Args, Parser, Subcommand, ValueEnum};
+use clap::{Parser, Subcommand};
 use std::path::Path;
 
 // Statically stored license files
 const LICENSES: &[(&str, &str)] = &[
-    ("OSH-WARE", include_str!("./osh-ware/license.md")),
-    ("CHOYXONA-WARE", include_str!("./choyxona-ware/license.md")),
+    ("OSH-WARE", include_str!("../osh-ware/license.md")),
+    ("CHOYXONA-WARE", include_str!("../choyxona-ware/license.md")),
 ];
 
 /// License manager for Yuri Katsuki
@@ -87,7 +87,7 @@ fn main() {
             }
 
             // If no license file found, exit
-            if found.len() == 0 {
+            if found.is_empty() {
                 println!("No license file found");
                 return;
             }

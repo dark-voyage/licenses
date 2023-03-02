@@ -1,6 +1,6 @@
 [package]
 name = "raisensu"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Yuri Katsuki <yuri@katsuki.moe>"]
 license = "CC0-1.0"
 description = "License manager created for Yuri"
