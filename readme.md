@@ -7,7 +7,7 @@ Licenses that was created by Yuri for Uzbek Open Source Community.
 </header>
 
 [![Channel](https://img.shields.io/badge/Chat-grey?style=flat-square&logo=telegram)](https://t.me/yurionblog)
-[![Deploy GitHub Pages](https://github.com/katsuki-yuri/licenses/actions/workflows/deploy.yml/badge.svg)](https://github.com/katsuki-yuri/licenses/actions/workflows/deploy.yml)
+[![Deploy GitHub Pages](https://github.com/katsuki-yuri/licenses/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/katsuki-yuri/licenses/actions/workflows/deploy.yml)
 
 ## About
 

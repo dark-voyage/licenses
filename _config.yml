@@ -7,9 +7,3 @@ plugins:
 title: Yuri's Licenses
 description: Open Source license templates created by Yuri
 show_downloads: "true"
-
-# GitHub generated URLs
-github:
-  zip_url: http://example.com/download.zip
-  osh-ware: https://raw.githubusercontent.com/katsuki-yuri/licenses/master/osh-ware/license.md
-  choyxona-ware: https://raw.githubusercontent.com/katsuki-yuri/licenses/master/choyxona-ware/license.md
