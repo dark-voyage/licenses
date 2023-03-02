@@ -1,6 +1,12 @@
 [package]
 name = "raisensu"
 version = "0.1.0"
+authors = ["Yuri Katsuki <yuri@katsuki.moe>"]
+license = "CC0-1.0"
+description = "License manager created for Yuri"
+homepage = "https://katsuki-yuri.github.io/licenses"
+repository = "https://github.com/katsuki-yuri/license"
+readme = "readme.md"
 edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
