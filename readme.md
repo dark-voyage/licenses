@@ -1,13 +1,13 @@
 <header>
-<img src="https://www.katsuki.moe/favicons/pinned.svg" alt="logo" height="100" align="left">
+<img src="https://www.orzklv.uz/favicons/logo.png" alt="logo" height="100" align="left">
 <h1 style="display: inline">Licensu!</h1>
 
-Licenses that was created by Yuri for Uzbek Open Source Community.
+Licenses that was created by Sokhibjon for Uzbek Open Source Community.
 
 </header>
 
-[![Channel](https://img.shields.io/badge/Chat-grey?style=flat-square&logo=telegram)](https://t.me/yurionblog)
-[![Deploy GitHub Pages](https://github.com/katsuki-yuri/licenses/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/katsuki-yuri/licenses/actions/workflows/deploy.yml)
+[![Channel](https://img.shields.io/badge/Chat-grey?style=flat-square&logo=telegram)](https://t.me/orzklvb)
+[![Deploy GitHub Pages](https://github.com/orzklv/licenses/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/orzklv/licenses/actions/workflows/deploy.yml)
 
 ## About
 

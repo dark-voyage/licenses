@@ -1,7 +1,7 @@
 # THE CHOYXONA-WARE LICENSE V1.0
 
 <author> wrote this file.
-License created by yuri@katsuki.moe
+License created by sakhib@orzklv.uz
 
 As long as you retain this notice you can do whatever you want
 with this stuff. If we meet some day, and you think this stuff

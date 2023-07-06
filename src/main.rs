@@ -7,10 +7,10 @@ const LICENSES: &[(&str, &str)] = &[
     ("CHOYXONA-WARE", include_str!("../choyxona-ware/license.md")),
 ];
 
-/// License manager for Yuri Katsuki
+/// License manager for Sokhibjon
 #[derive(Debug, Parser)]
 #[command(name = "raisensu")]
-#[command(about = "License manager for Yuri Katsuki", long_about = None)]
+#[command(about = "License manager for Sokhibjon", long_about = None)]
 struct Cli {
     #[command(subcommand)]
     command: Commands,

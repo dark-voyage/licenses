@@ -1,11 +1,11 @@
 [package]
 name = "raisensu"
-version = "0.1.1"
-authors = ["Yuri Katsuki <yuri@katsuki.moe>"]
+version = "0.1.2"
+authors = ["Sokhibjon Orzikulov <sakhib@orzklv.uz>"]
 license = "CC0-1.0"
-description = "License manager created for Yuri"
-homepage = "https://katsuki-yuri.github.io/licenses"
-repository = "https://github.com/katsuki-yuri/license"
+description = "License manager created for Sokhibjon"
+homepage = "https://orzklv.github.io/licenses"
+repository = "https://github.com/orzklv/license"
 readme = "readme.md"
 edition = "2021"
 

@@ -4,6 +4,6 @@ plugins:
   - jekyll-remote-theme
 
 # Site settings
-title: Yuri's Licenses
-description: Open Source license templates created by Yuri
+title: Sokhibjon's Licenses
+description: Open Source license templates created by Sokhibjon
 show_downloads: "true"
