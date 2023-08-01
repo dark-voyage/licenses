@@ -1,6 +1,6 @@
 <header>
 <img src="https://www.orzklv.uz/favicons/logo.png" alt="logo" height="100" align="left">
-<h1 style="display: inline">Licensu!</h1>
+<h1 style="display: inline">Licenses!</h1>
 
 Licenses that was created by Sokhibjon for Uzbek Open Source Community.
 
